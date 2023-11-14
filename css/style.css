@@ -1,0 +1,13 @@
+#cta{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/cta-bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.cta-btn {
+    border: 2px solid #8fc04e;
+}
+.cta-btn:hover{
+    background-color: #8fc04e;
+    transition: all 0.5s ease;
+}
